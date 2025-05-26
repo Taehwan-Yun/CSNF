@@ -1,6 +1,6 @@
 # Convolutional Similarity Network Fusion on Multiplex Graphs
 ## Paper
-This is the code for the [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) Paper: Convolutional Similarity Network Fusion on Multiplex Graphs
+This is the code for the [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) Paper:  Convolutional Similarity Network Fusion on Multiplex Graphs
 
 The figure below is a conceptual diagram of the proposed model.
 ## Abstract
